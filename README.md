@@ -17,15 +17,15 @@ where `<git-package-url>` the git repo URL of our package.
 Install the sdf submodule
 
 ```bash
-cd sdf
-pip install -e.
+cd POG-Demo/sdf
+pip install -e .
 ```
 
 Install the pog module
 
 ```bash
 cd ..
-pip install -e.
+pip install -e .
 ```
 ## 2. Run Examples
 We provid two examples which correspond to exp 1 and 2 on paper.
