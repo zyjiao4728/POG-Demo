@@ -1,0 +1,3 @@
+[submodule "sdf"]
+	path = sdf
+	url = git@github.com:BigAI-Robotics/sdf.git
