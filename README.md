@@ -2,7 +2,7 @@
 
 ![sys-vesrion](https://img.shields.io/badge/Ubuntu-20.04-blue) 
 
-Planning Sequential Tasks on Contact Graph
+Sequential Manipulation Planning on Scene Graph
 
 ## 1. Installation
 
